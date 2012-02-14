@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/602/devel/Scripts/Items/Construction/Doors
+END
+SecretDoors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Construction/Doors/SecretDoors.cs
+END
+BaseDoor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/602/devel/Scripts/Items/Construction/Doors/BaseDoor.cs
+END
+Portcullis.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Construction/Doors/Portcullis.cs
+END
+Doors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Construction/Doors/Doors.cs
+END
+HouseDoors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Construction/Doors/HouseDoors.cs
+END

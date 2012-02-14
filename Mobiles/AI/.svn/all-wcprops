@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/runuo/!svn/ver/649/devel/Scripts/Mobiles/AI
+END
+AnimalAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/AnimalAI.cs
+END
+SpeedInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/SpeedInfo.cs
+END
+ArcherAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/ArcherAI.cs
+END
+OppositionGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/OppositionGroup.cs
+END
+MeleeAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/MeleeAI.cs
+END
+MageAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/MageAI.cs
+END
+BaseAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/649/devel/Scripts/Mobiles/AI/BaseAI.cs
+END
+BerserkAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/BerserkAI.cs
+END
+VendorAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/VendorAI.cs
+END
+AIControlMobileTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/AIControlMobileTarget.cs
+END
+ThiefAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/ThiefAI.cs
+END
+HealerAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/HealerAI.cs
+END
+PredatorAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/571/devel/Scripts/Mobiles/AI/PredatorAI.cs
+END

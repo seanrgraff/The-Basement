@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/578/devel/Scripts/Mobiles/Vendors/NPC
+END
+Farmer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Farmer.cs
+END
+Herbalist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Herbalist.cs
+END
+LeatherWorker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/LeatherWorker.cs
+END
+Ranger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Ranger.cs
+END
+Blacksmith.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Blacksmith.cs
+END
+Carpenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Carpenter.cs
+END
+AnimalTrainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/578/devel/Scripts/Mobiles/Vendors/NPC/AnimalTrainer.cs
+END
+TavernKeeper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/TavernKeeper.cs
+END
+Tinker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Tinker.cs
+END
+Jeweler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Jeweler.cs
+END
+GypsyBanker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/GypsyBanker.cs
+END
+Furtrader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Furtrader.cs
+END
+RealEstateBroker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/RealEstateBroker.cs
+END
+Weaponsmith.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Weaponsmith.cs
+END
+Barkeeper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Barkeeper.cs
+END
+Bowyer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Bowyer.cs
+END
+Scribe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Scribe.cs
+END
+Mage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Mage.cs
+END
+GolemCrafter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/GolemCrafter.cs
+END
+CustomHairstylist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/CustomHairstylist.cs
+END
+Fisherman.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Fisherman.cs
+END
+HairStylist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/HairStylist.cs
+END
+Provisioner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Provisioner.cs
+END
+InnKeeper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/InnKeeper.cs
+END
+Vagabond.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Vagabond.cs
+END
+GypsyAnimalTrainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/runuo/!svn/ver/67/devel/Scripts/Mobiles/Vendors/NPC/GypsyAnimalTrainer.cs
+END
+Rancher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Rancher.cs
+END
+Glassblower.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Glassblower.cs
+END
+Baker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Baker.cs
+END
+Miller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Miller.cs
+END
+Tanner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Tanner.cs
+END
+Beekeeper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Beekeeper.cs
+END
+Veterinarian.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Veterinarian.cs
+END
+Shipwright.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Shipwright.cs
+END
+GypsyMaiden.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/GypsyMaiden.cs
+END
+Weaver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Weaver.cs
+END
+Tailor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Tailor.cs
+END
+Cook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Cook.cs
+END
+Waiter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Waiter.cs
+END
+Butcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Butcher.cs
+END
+Mapmaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Mapmaker.cs
+END
+StoneCrafter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/StoneCrafter.cs
+END
+Thief.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Thief.cs
+END
+VarietyDealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/VarietyDealer.cs
+END
+IronWorker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/IronWorker.cs
+END
+KeeperOfChivalry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/KeeperOfChivalry.cs
+END
+Monk.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Monk.cs
+END
+HolyMage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/HolyMage.cs
+END
+Architect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Architect.cs
+END
+Armorer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Armorer.cs
+END
+Bard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Bard.cs
+END
+Cobbler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Cobbler.cs
+END
+Alchemist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Alchemist.cs
+END
+Miner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Miner.cs
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/runuo/!svn/ver/649/devel/Scripts/Regions
+END
+TownRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Regions/TownRegion.cs
+END
+NoHousingRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/2/devel/Scripts/Regions/NoHousingRegion.cs
+END
+BaseRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/602/devel/Scripts/Regions/BaseRegion.cs
+END
+GreenAcres.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Regions/GreenAcres.cs
+END
+GuardedRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/214/devel/Scripts/Regions/GuardedRegion.cs
+END
+Jail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/runuo/!svn/ver/2/devel/Scripts/Regions/Jail.cs
+END
+DungeonRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/2/devel/Scripts/Regions/DungeonRegion.cs
+END
+HouseRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/570/devel/Scripts/Regions/HouseRegion.cs
+END

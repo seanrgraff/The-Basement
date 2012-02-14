@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/591/devel/Scripts/Engines/BulkOrders
+END
+BulkMaterialType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/BulkOrders/BulkMaterialType.cs
+END
+LargeBOD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/15/devel/Scripts/Engines/BulkOrders/LargeBOD.cs
+END
+LargeSmithBOD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/15/devel/Scripts/Engines/BulkOrders/LargeSmithBOD.cs
+END
+SmallBODGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/BulkOrders/SmallBODGump.cs
+END
+LargeBODTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/BulkOrders/LargeBODTarget.cs
+END
+LargeBODAcceptGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/BulkOrders/LargeBODAcceptGump.cs
+END
+LargeTailorBOD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/342/devel/Scripts/Engines/BulkOrders/LargeTailorBOD.cs
+END
+LargeBulkEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/BulkOrders/LargeBulkEntry.cs
+END
+SmallBOD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/15/devel/Scripts/Engines/BulkOrders/SmallBOD.cs
+END
+SmallSmithBOD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/148/devel/Scripts/Engines/BulkOrders/SmallSmithBOD.cs
+END
+SmallBODTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/BulkOrders/SmallBODTarget.cs
+END
+SmallBODAcceptGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/BulkOrders/SmallBODAcceptGump.cs
+END
+Rewards.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/137/devel/Scripts/Engines/BulkOrders/Rewards.cs
+END
+SmallBulkEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/591/devel/Scripts/Engines/BulkOrders/SmallBulkEntry.cs
+END
+LargeBODGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/BulkOrders/LargeBODGump.cs
+END
+SmallTailorBOD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/148/devel/Scripts/Engines/BulkOrders/SmallTailorBOD.cs
+END

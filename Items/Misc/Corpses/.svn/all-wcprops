@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/518/devel/Scripts/Items/Misc/Corpses
+END
+Corpse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/518/devel/Scripts/Items/Misc/Corpses/Corpse.cs
+END
+CorpseNameAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Misc/Corpses/CorpseNameAttribute.cs
+END
+DecayedCorpse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Misc/Corpses/DecayedCorpse.cs
+END
+Packets.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Misc/Corpses/Packets.cs
+END

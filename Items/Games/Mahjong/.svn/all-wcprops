@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/214/devel/Scripts/Items/Games/Mahjong
+END
+MahjongDices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongDices.cs
+END
+MahjongEnums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongEnums.cs
+END
+MahjongPacketHandlers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongPacketHandlers.cs
+END
+MahjongDealerIndicator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongDealerIndicator.cs
+END
+MahjongGame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongGame.cs
+END
+MahjongTile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongTile.cs
+END
+MahjongPieceDim.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongPieceDim.cs
+END
+MahjongPlayers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/runuo/!svn/ver/214/devel/Scripts/Items/Games/Mahjong/MahjongPlayers.cs
+END
+MahjongWallBreakIndicator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongWallBreakIndicator.cs
+END
+MahjongTileTypeGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/MahjongTileTypeGenerator.cs
+END
+Packets.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Mahjong/Packets.cs
+END

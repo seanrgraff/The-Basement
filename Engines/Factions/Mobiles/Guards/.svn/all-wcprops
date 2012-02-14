@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/649/devel/Scripts/Engines/Factions/Mobiles/Guards
+END
+GuardAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/runuo/!svn/ver/649/devel/Scripts/Engines/Factions/Mobiles/Guards/GuardAI.cs
+END
+Orders.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Mobiles/Guards/Orders.cs
+END
+BaseFactionGuard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Mobiles/Guards/BaseFactionGuard.cs
+END

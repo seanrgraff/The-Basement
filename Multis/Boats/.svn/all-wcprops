@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/runuo/!svn/ver/656/devel/Scripts/Multis/Boats
+END
+SmallBoat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/SmallBoat.cs
+END
+RenameBoatPrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Multis/Boats/RenameBoatPrompt.cs
+END
+BaseBoat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/602/devel/Scripts/Multis/Boats/BaseBoat.cs
+END
+MediumDragonBoat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/MediumDragonBoat.cs
+END
+MediumBoat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/MediumBoat.cs
+END
+Hold.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/2/devel/Scripts/Multis/Boats/Hold.cs
+END
+TillerMan.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/656/devel/Scripts/Multis/Boats/TillerMan.cs
+END
+BaseDockedBoat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/BaseDockedBoat.cs
+END
+LargeDragonBoat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/LargeDragonBoat.cs
+END
+Strandedness.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/Strandedness.cs
+END
+LargeBoat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/LargeBoat.cs
+END
+BaseBoatDeed.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/BaseBoatDeed.cs
+END
+Plank.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Multis/Boats/Plank.cs
+END
+ConfirmDryDockGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Multis/Boats/ConfirmDryDockGump.cs
+END
+SmallDragonBoat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Boats/SmallDragonBoat.cs
+END

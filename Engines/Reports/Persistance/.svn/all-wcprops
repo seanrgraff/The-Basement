@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Persistance
+END
+PersistanceWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Persistance/PersistanceWriter.cs
+END
+PersistableType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Persistance/PersistableType.cs
+END
+PersistableObjectCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Persistance/PersistableObjectCollection.cs
+END
+PersistanceReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Persistance/PersistanceReader.cs
+END
+PersistableObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Persistance/PersistableObject.cs
+END

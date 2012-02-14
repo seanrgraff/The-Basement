@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/runuo/!svn/ver/656/devel/Scripts/Multis
+END
+HousePlacement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/HousePlacement.cs
+END
+BaseHouse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/BaseHouse.cs
+END
+MovingCrate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/308/devel/Scripts/Multis/MovingCrate.cs
+END
+Deeds.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Deeds.cs
+END
+HouseSign.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/runuo/!svn/ver/2/devel/Scripts/Multis/HouseSign.cs
+END
+ComponentVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/598/devel/Scripts/Multis/ComponentVerification.cs
+END
+PreviewHouse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/595/devel/Scripts/Multis/PreviewHouse.cs
+END
+Houses.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/591/devel/Scripts/Multis/Houses.cs
+END
+HouseTeleporter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Multis/HouseTeleporter.cs
+END
+HouseFoundation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/653/devel/Scripts/Multis/HouseFoundation.cs
+END
+HousePlacementTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/593/devel/Scripts/Multis/HousePlacementTool.cs
+END

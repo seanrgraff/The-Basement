@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/runuo/!svn/ver/665/devel/Scripts/Spells/Ninjitsu
+END
+KiAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/153/devel/Scripts/Spells/Ninjitsu/KiAttack.cs
+END
+MirrorImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/187/devel/Scripts/Spells/Ninjitsu/MirrorImage.cs
+END
+NinjaSpell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/521/devel/Scripts/Spells/Ninjitsu/NinjaSpell.cs
+END
+ShadowJump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/665/devel/Scripts/Spells/Ninjitsu/ShadowJump.cs
+END
+SurpriseAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/187/devel/Scripts/Spells/Ninjitsu/SurpriseAttack.cs
+END
+AnimalForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/493/devel/Scripts/Spells/Ninjitsu/AnimalForm.cs
+END
+NinjaMove.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/187/devel/Scripts/Spells/Ninjitsu/NinjaMove.cs
+END
+DeathStrike.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/332/devel/Scripts/Spells/Ninjitsu/DeathStrike.cs
+END
+FocusAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/187/devel/Scripts/Spells/Ninjitsu/FocusAttack.cs
+END
+Backstab.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/187/devel/Scripts/Spells/Ninjitsu/Backstab.cs
+END

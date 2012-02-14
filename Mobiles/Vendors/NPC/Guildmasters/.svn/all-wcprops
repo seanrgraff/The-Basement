@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters
+END
+BaseGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/BaseGuildmaster.cs
+END
+MinerGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/MinerGuildmaster.cs
+END
+TailorGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/TailorGuildmaster.cs
+END
+TinkerGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/runuo/!svn/ver/334/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/TinkerGuildmaster.cs
+END
+RangerGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/RangerGuildmaster.cs
+END
+ThiefGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/ThiefGuildmaster.cs
+END
+FisherGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/FisherGuildmaster.cs
+END
+HealerGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/HealerGuildmaster.cs
+END
+BlacksmithGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/BlacksmithGuildmaster.cs
+END
+MerchantGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/MerchantGuildmaster.cs
+END
+WarriorGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/WarriorGuildmaster.cs
+END
+BardGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/BardGuildmaster.cs
+END
+MageGuildmaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Vendors/NPC/Guildmasters/MageGuildmaster.cs
+END

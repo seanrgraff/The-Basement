@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/runuo/!svn/ver/644/devel/Scripts/Items/Weapons
+END
+SlayerGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/444/devel/Scripts/Items/Weapons/SlayerGroup.cs
+END
+BaseMeleeWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/187/devel/Scripts/Items/Weapons/BaseMeleeWeapon.cs
+END
+HitLower.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Weapons/HitLower.cs
+END
+SlayerName.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Weapons/SlayerName.cs
+END
+SlayerEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Weapons/SlayerEntry.cs
+END
+WeaponEnums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Weapons/WeaponEnums.cs
+END
+BaseWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/644/devel/Scripts/Items/Weapons/BaseWeapon.cs
+END
+Fists.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/413/devel/Scripts/Items/Weapons/Fists.cs
+END

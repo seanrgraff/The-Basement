@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/runuo/!svn/ver/649/devel/Scripts/Commands
+END
+DecorateMag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/649/devel/Scripts/Commands/DecorateMag.cs
+END
+GenCategorization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/591/devel/Scripts/Commands/GenCategorization.cs
+END
+BoundingBoxPicker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Commands/BoundingBoxPicker.cs
+END
+SignParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/149/devel/Scripts/Commands/SignParser.cs
+END
+GenTeleporter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/429/devel/Scripts/Commands/GenTeleporter.cs
+END
+ConvertPlayers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/364/devel/Scripts/Commands/ConvertPlayers.cs
+END
+Batch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/runuo/!svn/ver/148/devel/Scripts/Commands/Batch.cs
+END
+VisibilityList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/521/devel/Scripts/Commands/VisibilityList.cs
+END
+Logging.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/357/devel/Scripts/Commands/Logging.cs
+END
+Decorate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/649/devel/Scripts/Commands/Decorate.cs
+END
+Attributes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Commands/Attributes.cs
+END
+SkillsMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Commands/SkillsMenu.cs
+END
+Docs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/353/devel/Scripts/Commands/Docs.cs
+END
+Add.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/runuo/!svn/ver/274/devel/Scripts/Commands/Add.cs
+END
+Profiling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/630/devel/Scripts/Commands/Profiling.cs
+END
+Properties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/630/devel/Scripts/Commands/Properties.cs
+END
+Dupe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/306/devel/Scripts/Commands/Dupe.cs
+END
+ExportWSC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Commands/ExportWSC.cs
+END
+Handlers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/649/devel/Scripts/Commands/Handlers.cs
+END
+Skills.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/2/devel/Scripts/Commands/Skills.cs
+END
+HelpInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/36/devel/Scripts/Commands/HelpInfo.cs
+END
+Wipe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/149/devel/Scripts/Commands/Wipe.cs
+END
+Statics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/591/devel/Scripts/Commands/Statics.cs
+END

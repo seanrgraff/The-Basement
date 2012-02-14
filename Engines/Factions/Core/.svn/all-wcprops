@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/511/devel/Scripts/Engines/Factions/Core
+END
+SilverGivenEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Core/SilverGivenEntry.cs
+END
+Persistance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Core/Persistance.cs
+END
+Faction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/511/devel/Scripts/Engines/Factions/Core/Faction.cs
+END
+FactionState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/runuo/!svn/ver/370/devel/Scripts/Engines/Factions/Core/FactionState.cs
+END
+Reflector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Core/Reflector.cs
+END
+MerchantTitles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Core/MerchantTitles.cs
+END
+Generator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Core/Generator.cs
+END
+Town.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Core/Town.cs
+END
+StrongholdRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Core/StrongholdRegion.cs
+END
+TownState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Core/TownState.cs
+END
+VendorList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Core/VendorList.cs
+END
+PlayerState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/371/devel/Scripts/Engines/Factions/Core/PlayerState.cs
+END
+GuardList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Core/GuardList.cs
+END
+FactionItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/370/devel/Scripts/Engines/Factions/Core/FactionItem.cs
+END
+Election.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/172/devel/Scripts/Engines/Factions/Core/Election.cs
+END
+Keywords.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Core/Keywords.cs
+END

@@ -1,0 +1,129 @@
+10
+
+dir
+665
+http://svn.runuo.com/repos/runuo/devel/Scripts/Items/Armor
+http://svn.runuo.com/repos/runuo
+
+
+
+2010-10-10T15:37:22.307083Z
+543
+xavier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ac77a535-3b16-0410-86cf-f39a8dd261f2
+
+Ring
+dir
+
+BaseArmor.cs
+file
+
+
+
+
+2011-01-25T02:42:16.796875Z
+dcf215f768b922a95bf4336d2955de53
+2010-10-10T15:37:22.307083Z
+543
+xavier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48969
+
+Artifacts
+dir
+
+Helmets
+dir
+
+Chain
+dir
+
+Bone
+dir
+
+Leather
+dir
+
+Plate
+dir
+
+DaemonBone
+dir
+
+Dragon
+dir
+
+Studded
+dir
+
+ArmorEnums.cs
+file
+
+
+
+
+2011-01-25T02:42:16.796875Z
+5250a4adef0cbc1d1f0caf0599c8c9c2
+2006-06-15T04:14:30.704699Z
+2
+mark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+782
+
+Ranger
+dir
+

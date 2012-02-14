@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/306/devel/Scripts/Engines/Factions/Definitions
+END
+FactionItemDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Definitions/FactionItemDefinition.cs
+END
+GuardDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Definitions/GuardDefinition.cs
+END
+FactionDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/runuo/!svn/ver/306/devel/Scripts/Engines/Factions/Definitions/FactionDefinition.cs
+END
+TownDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Definitions/TownDefinition.cs
+END
+StrongholdDefintion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Definitions/StrongholdDefintion.cs
+END
+RankDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Definitions/RankDefinition.cs
+END
+VendorDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Definitions/VendorDefinition.cs
+END

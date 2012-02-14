@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Games
+END
+CheckerBoard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Games/CheckerBoard.cs
+END
+Chessboard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Games/Chessboard.cs
+END
+ChessPieces.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Games/ChessPieces.cs
+END
+Backgammon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Games/Backgammon.cs
+END
+BasePiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Games/BasePiece.cs
+END
+CheckersPieces.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Games/CheckersPieces.cs
+END
+BaseBoard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Games/BaseBoard.cs
+END
+Dices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Games/Dices.cs
+END

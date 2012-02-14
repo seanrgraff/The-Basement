@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/511/devel/Scripts/Engines/Quests/Core
+END
+QuestSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Quests/Core/QuestSerializer.cs
+END
+QuestConversation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Quests/Core/QuestConversation.cs
+END
+QuestItemInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Quests/Core/QuestItemInfo.cs
+END
+QuestObjective.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Quests/Core/QuestObjective.cs
+END
+QuestCallbackEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Quests/Core/QuestCallbackEntry.cs
+END
+QuestRestartInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Quests/Core/QuestRestartInfo.cs
+END
+BaseQuester.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/511/devel/Scripts/Engines/Quests/Core/BaseQuester.cs
+END
+QuestSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Quests/Core/QuestSystem.cs
+END

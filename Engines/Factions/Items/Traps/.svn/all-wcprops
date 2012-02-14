@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/370/devel/Scripts/Engines/Factions/Items/Traps
+END
+FactionExplosionTrap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/Traps/FactionExplosionTrap.cs
+END
+BaseFactionTrap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/runuo/!svn/ver/370/devel/Scripts/Engines/Factions/Items/Traps/BaseFactionTrap.cs
+END
+FactionGasTrap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/Traps/FactionGasTrap.cs
+END
+FactionSawTrap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/Traps/FactionSawTrap.cs
+END
+FactionSpikeTrap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/Traps/FactionSpikeTrap.cs
+END
+BaseFactionTrapDeed.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/Traps/BaseFactionTrapDeed.cs
+END
+FactionTrapRemovalKit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/Traps/FactionTrapRemovalKit.cs
+END

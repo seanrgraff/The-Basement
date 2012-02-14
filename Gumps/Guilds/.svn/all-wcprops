@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/runuo/!svn/ver/570/devel/Scripts/Gumps/Guilds
+END
+GuildDeclarePeaceGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildDeclarePeaceGump.cs
+END
+GuildRescindDeclarationGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildRescindDeclarationGump.cs
+END
+GuildCandidatesGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildCandidatesGump.cs
+END
+GuildCharterPrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildCharterPrompt.cs
+END
+GuildWarAdminGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildWarAdminGump.cs
+END
+GuildMobileListGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildMobileListGump.cs
+END
+GuildAbbrvPrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildAbbrvPrompt.cs
+END
+RecruitTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/RecruitTarget.cs
+END
+GuildAdminCandidatesGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildAdminCandidatesGump.cs
+END
+GuildDeclareWarGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildDeclareWarGump.cs
+END
+GuildAcceptWarGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildAcceptWarGump.cs
+END
+GuildListGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildListGump.cs
+END
+GuildDismissGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildDismissGump.cs
+END
+GuildWebsitePrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildWebsitePrompt.cs
+END
+GrantGuildTitleGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GrantGuildTitleGump.cs
+END
+GuildRosterGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildRosterGump.cs
+END
+GuildGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildGump.cs
+END
+DeclareFealtyGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/DeclareFealtyGump.cs
+END
+GuildDeclareWarPrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildDeclareWarPrompt.cs
+END
+GuildRejectWarGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildRejectWarGump.cs
+END
+GuildChangeTypeGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/570/devel/Scripts/Gumps/Guilds/GuildChangeTypeGump.cs
+END
+GuildCharterGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildCharterGump.cs
+END
+GuildNamePrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildNamePrompt.cs
+END
+GuildWarGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildWarGump.cs
+END
+GuildTitlePrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildTitlePrompt.cs
+END
+GuildmasterGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Gumps/Guilds/GuildmasterGump.cs
+END

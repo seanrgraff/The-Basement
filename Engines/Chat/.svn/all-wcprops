@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/runuo/!svn/ver/124/devel/Scripts/Engines/Chat
+END
+ChatActionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Chat/ChatActionHandler.cs
+END
+ChatActionHandlers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Chat/ChatActionHandlers.cs
+END
+ChatCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Chat/ChatCommand.cs
+END
+ChatUser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/124/devel/Scripts/Engines/Chat/ChatUser.cs
+END
+Chatold.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Chat/Chatold.cs
+END
+Chat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Chat/Chat.cs
+END
+Channel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/122/devel/Scripts/Engines/Chat/Channel.cs
+END
+Packets.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Chat/Packets.cs
+END

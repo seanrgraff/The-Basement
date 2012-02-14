@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/runuo/!svn/ver/316/devel/Scripts/Engines/Help
+END
+PagePrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Help/PagePrompt.cs
+END
+StuckMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Help/StuckMenu.cs
+END
+HelpGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/187/devel/Scripts/Engines/Help/HelpGump.cs
+END
+PageQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/316/devel/Scripts/Engines/Help/PageQueue.cs
+END
+SpeechLogGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Help/SpeechLogGump.cs
+END
+PageResponseGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Help/PageResponseGump.cs
+END
+PagePromptGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Help/PagePromptGump.cs
+END
+SpeechLog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/187/devel/Scripts/Engines/Help/SpeechLog.cs
+END
+PageQueueGump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Help/PageQueueGump.cs
+END

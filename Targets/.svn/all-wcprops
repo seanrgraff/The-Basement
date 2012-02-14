@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/runuo/!svn/ver/274/devel/Scripts/Targets
+END
+MoveTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Targets/MoveTarget.cs
+END
+BladedItemTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/274/devel/Scripts/Targets/BladedItemTarget.cs
+END
+PickMoveTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Targets/PickMoveTarget.cs
+END

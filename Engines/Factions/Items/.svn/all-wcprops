@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/370/devel/Scripts/Engines/Factions/Items
+END
+FactionStone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/FactionStone.cs
+END
+StrongholdMonolith.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/StrongholdMonolith.cs
+END
+TownStone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/TownStone.cs
+END
+TownMonolith.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/TownMonolith.cs
+END
+BaseSystemController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/BaseSystemController.cs
+END
+BaseMonolith.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Items/BaseMonolith.cs
+END
+Silver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/Silver.cs
+END
+Sigil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/66/devel/Scripts/Engines/Factions/Items/Sigil.cs
+END
+JoinStone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Items/JoinStone.cs
+END

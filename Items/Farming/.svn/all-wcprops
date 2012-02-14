@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/runuo/!svn/ver/649/devel/Scripts/Items/Farming
+END
+FarmableTurnip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmableTurnip.cs
+END
+FarmableOnion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmableOnion.cs
+END
+FarmableCrop.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/649/devel/Scripts/Items/Farming/FarmableCrop.cs
+END
+FarmablePumpkin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmablePumpkin.cs
+END
+FarmableCabbage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmableCabbage.cs
+END
+FarmableLettuce.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmableLettuce.cs
+END
+FarmableCotton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmableCotton.cs
+END
+FarmableWheat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmableWheat.cs
+END
+FarmableCarrot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmableCarrot.cs
+END
+FarmableFlax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Farming/FarmableFlax.cs
+END

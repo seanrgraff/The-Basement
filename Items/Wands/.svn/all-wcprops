@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/runuo/!svn/ver/332/devel/Scripts/Items/Wands
+END
+FeebleWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/FeebleWand.cs
+END
+GreaterHealWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/GreaterHealWand.cs
+END
+LightningWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/LightningWand.cs
+END
+WandTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/WandTarget.cs
+END
+HarmWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/HarmWand.cs
+END
+HealWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/HealWand.cs
+END
+BaseWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/332/devel/Scripts/Items/Wands/BaseWand.cs
+END
+ManaDrainWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/ManaDrainWand.cs
+END
+MagicArrowWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/MagicArrowWand.cs
+END
+ClumsyWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/ClumsyWand.cs
+END
+IDWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/IDWand.cs
+END
+FireballWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/FireballWand.cs
+END
+RandomWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/RandomWand.cs
+END
+WeaknessWand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Wands/WeaknessWand.cs
+END

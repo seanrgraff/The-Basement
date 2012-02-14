@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Guards
+END
+BaseGuard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Guards/BaseGuard.cs
+END
+ArcherGuard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Guards/ArcherGuard.cs
+END
+WarriorGuard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Guards/WarriorGuard.cs
+END

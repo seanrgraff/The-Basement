@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons
+END
+SBKnifeWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons/SBKnifeWeapon.cs
+END
+SBSpearForkWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons/SBSpearForkWeapon.cs
+END
+SBAxeWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons/SBAxeWeapon.cs
+END
+SBSwordWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons/SBSwordWeapon.cs
+END
+SBPoleArmWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons/SBPoleArmWeapon.cs
+END
+SBRangedWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons/SBRangedWeapon.cs
+END
+SBMaceWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons/SBMaceWeapon.cs
+END
+SBStavesWeapon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/runuo/!svn/ver/511/devel/Scripts/Mobiles/Vendors/SBInfo/Weapons/SBStavesWeapon.cs
+END

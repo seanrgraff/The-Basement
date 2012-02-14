@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types
+END
+FactionPaladin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionPaladin.cs
+END
+FactionSorceress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionSorceress.cs
+END
+FactionDragoon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionDragoon.cs
+END
+FactionDeathKnight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionDeathKnight.cs
+END
+FactionNecromancer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionNecromancer.cs
+END
+FactionWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionWizard.cs
+END
+FactionHenchman.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionHenchman.cs
+END
+FactionBerserker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionBerserker.cs
+END
+FactionKnight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionKnight.cs
+END
+FactionMercenary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Factions/Mobiles/Guards/Types/FactionMercenary.cs
+END

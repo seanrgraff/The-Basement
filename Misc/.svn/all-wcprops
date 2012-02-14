@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/runuo/!svn/ver/656/devel/Scripts/Misc
+END
+Fastwalk.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/Fastwalk.cs
+END
+AttackMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/AttackMessage.cs
+END
+SkillCheck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/511/devel/Scripts/Misc/SkillCheck.cs
+END
+AutoRestart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/190/devel/Scripts/Misc/AutoRestart.cs
+END
+BuffIcons.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/runuo/!svn/ver/653/devel/Scripts/Misc/BuffIcons.cs
+END
+CharacterCreation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/653/devel/Scripts/Misc/CharacterCreation.cs
+END
+ProtocolExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/189/devel/Scripts/Misc/ProtocolExtensions.cs
+END
+WebStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/runuo/!svn/ver/255/devel/Scripts/Misc/WebStatus.cs
+END
+AOS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/runuo/!svn/ver/543/devel/Scripts/Misc/AOS.cs
+END
+ProfanityProtection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/ProfanityProtection.cs
+END
+DataPath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/524/devel/Scripts/Misc/DataPath.cs
+END
+LoginStats.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/LoginStats.cs
+END
+LightCycle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/LightCycle.cs
+END
+Email.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/runuo/!svn/ver/559/devel/Scripts/Misc/Email.cs
+END
+AutoSave.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/641/devel/Scripts/Misc/AutoSave.cs
+END
+Geometry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/514/devel/Scripts/Misc/Geometry.cs
+END
+LanguageStatistics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/LanguageStatistics.cs
+END
+TreasureMapProtection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/511/devel/Scripts/Misc/TreasureMapProtection.cs
+END
+Profile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/runuo/!svn/ver/111/devel/Scripts/Misc/Profile.cs
+END
+Animations.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/Animations.cs
+END
+Guild.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/runuo/!svn/ver/529/devel/Scripts/Misc/Guild.cs
+END
+Titles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/runuo/!svn/ver/511/devel/Scripts/Misc/Titles.cs
+END
+Keywords.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/Keywords.cs
+END
+CurrentExpansion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/521/devel/Scripts/Misc/CurrentExpansion.cs
+END
+Poison.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/runuo/!svn/ver/187/devel/Scripts/Misc/Poison.cs
+END
+DispellableFieldAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/DispellableFieldAttribute.cs
+END
+HardwareInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/511/devel/Scripts/Misc/HardwareInfo.cs
+END
+MapDefinitions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/runuo/!svn/ver/549/devel/Scripts/Misc/MapDefinitions.cs
+END
+DoorGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/591/devel/Scripts/Misc/DoorGenerator.cs
+END
+NameList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/145/devel/Scripts/Misc/NameList.cs
+END
+LootPack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/656/devel/Scripts/Misc/LootPack.cs
+END
+Loot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/runuo/!svn/ver/503/devel/Scripts/Misc/Loot.cs
+END
+ShardPoller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/267/devel/Scripts/Misc/ShardPoller.cs
+END
+ClientVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/274/devel/Scripts/Misc/ClientVerification.cs
+END
+WeightOverloading.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/WeightOverloading.cs
+END
+Paperdoll.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/38/devel/Scripts/Misc/Paperdoll.cs
+END
+CrashGuard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/641/devel/Scripts/Misc/CrashGuard.cs
+END
+NameVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/280/devel/Scripts/Misc/NameVerification.cs
+END
+Broadcasts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/Broadcasts.cs
+END
+InhumanSpeech.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/151/devel/Scripts/Misc/InhumanSpeech.cs
+END
+Cleanup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/runuo/!svn/ver/197/devel/Scripts/Misc/Cleanup.cs
+END
+Notoriety.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/runuo/!svn/ver/579/devel/Scripts/Misc/Notoriety.cs
+END
+WelcomeTimer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/WelcomeTimer.cs
+END
+FoodDecay.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/FoodDecay.cs
+END
+TextDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/TextDefinition.cs
+END
+AccountPrompt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/38/devel/Scripts/Misc/AccountPrompt.cs
+END
+RegenRates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/437/devel/Scripts/Misc/RegenRates.cs
+END
+Weather.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/Weather.cs
+END
+ServerList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/runuo/!svn/ver/353/devel/Scripts/Misc/ServerList.cs
+END
+uoamVendors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/uoamVendors.cs
+END
+RenameRequests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/RenameRequests.cs
+END
+ResourceInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/543/devel/Scripts/Misc/ResourceInfo.cs
+END
+DispellableAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/DispellableAttribute.cs
+END
+SocketOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/411/devel/Scripts/Misc/SocketOptions.cs
+END
+VendorGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/591/devel/Scripts/Misc/VendorGenerator.cs
+END
+RaceDefinitions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/385/devel/Scripts/Misc/RaceDefinitions.cs
+END
+ShrinkTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/runuo/!svn/ver/2/devel/Scripts/Misc/ShrinkTable.cs
+END
+Emitter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/runuo/!svn/ver/312/devel/Scripts/Misc/Emitter.cs
+END

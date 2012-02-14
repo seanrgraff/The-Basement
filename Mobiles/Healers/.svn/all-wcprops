@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/runuo/!svn/ver/615/devel/Scripts/Mobiles/Healers
+END
+BaseHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/615/devel/Scripts/Mobiles/Healers/BaseHealer.cs
+END
+EvilWanderingHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/runuo/!svn/ver/374/devel/Scripts/Mobiles/Healers/EvilWanderingHealer.cs
+END
+WanderingHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/runuo/!svn/ver/374/devel/Scripts/Mobiles/Healers/WanderingHealer.cs
+END
+EvilHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/374/devel/Scripts/Mobiles/Healers/EvilHealer.cs
+END
+Healer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/374/devel/Scripts/Mobiles/Healers/Healer.cs
+END
+PricedHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Healers/PricedHealer.cs
+END
+FortuneTeller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Mobiles/Healers/FortuneTeller.cs
+END

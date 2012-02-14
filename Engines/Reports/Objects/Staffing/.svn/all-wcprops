@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing
+END
+Info.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing/Info.cs
+END
+PageInfoCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing/PageInfoCollection.cs
+END
+QueueStatusCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing/QueueStatusCollection.cs
+END
+StaffHistory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing/StaffHistory.cs
+END
+ResponseInfoCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing/ResponseInfoCollection.cs
+END
+PageInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing/PageInfo.cs
+END
+QueueStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing/QueueStatus.cs
+END
+ResponseInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/runuo/!svn/ver/2/devel/Scripts/Engines/Reports/Objects/Staffing/ResponseInfo.cs
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/runuo/!svn/ver/570/devel/Scripts/Items/Lights
+END
+BrazierTall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/BrazierTall.cs
+END
+Candelabra.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/570/devel/Scripts/Items/Lights/Candelabra.cs
+END
+Torch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/Torch.cs
+END
+LampPost1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/LampPost1.cs
+END
+LampPost2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/LampPost2.cs
+END
+LampPost3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/LampPost3.cs
+END
+Candle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/Candle.cs
+END
+LightSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/LightSource.cs
+END
+BaseEquipableLight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/BaseEquipableLight.cs
+END
+RedHangingLantern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Lights/RedHangingLantern.cs
+END
+WallSconce.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/WallSconce.cs
+END
+PaperLantern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/PaperLantern.cs
+END
+Brazier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/Brazier.cs
+END
+HangingLantern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/HangingLantern.cs
+END
+WallTorch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/WallTorch.cs
+END
+ShojiLantern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/ShojiLantern.cs
+END
+WhiteHangingLantern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Lights/WhiteHangingLantern.cs
+END
+CandleSkull.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/CandleSkull.cs
+END
+CandleLarge.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/CandleLarge.cs
+END
+DarkSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/DarkSource.cs
+END
+BaseLight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/543/devel/Scripts/Items/Lights/BaseLight.cs
+END
+Lantern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/Lantern.cs
+END
+RoundPaperLantern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/RoundPaperLantern.cs
+END
+CandleShort.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/CandleShort.cs
+END
+CandleLong.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/CandleLong.cs
+END
+CandelabraStand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/CandelabraStand.cs
+END
+HeatingStand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Lights/HeatingStand.cs
+END

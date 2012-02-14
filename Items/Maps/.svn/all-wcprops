@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/runuo/!svn/ver/622/devel/Scripts/Items/Maps
+END
+IndecipherableMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Maps/IndecipherableMap.cs
+END
+MapItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/274/devel/Scripts/Items/Maps/MapItem.cs
+END
+PresetMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Maps/PresetMap.cs
+END
+BlankMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Maps/BlankMap.cs
+END
+WorldMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Maps/WorldMap.cs
+END
+CityMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Maps/CityMap.cs
+END
+LocalMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Maps/LocalMap.cs
+END
+TreasureMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/runuo/!svn/ver/622/devel/Scripts/Items/Maps/TreasureMap.cs
+END
+SeaChart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/runuo/!svn/ver/2/devel/Scripts/Items/Maps/SeaChart.cs
+END
