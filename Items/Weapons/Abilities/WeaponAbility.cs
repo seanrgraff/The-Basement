@@ -305,8 +305,7 @@ namespace Server.Items
 				return null;
 			}
 
-			//return a; **************THIS CHANGE IS TO REMOVE WEAPON ABILITIES
-			return null;
+			return a;
 		}
 
 		public static bool SetCurrentAbility( Mobile m, WeaponAbility a )
