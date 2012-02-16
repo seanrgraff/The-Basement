@@ -29,17 +29,17 @@ namespace Server.Spells
 		public Item Scroll{ get{ return m_Scroll; } }
 		public DateTime StartCastTime { get { return m_StartCastTime; } }
 
-		private static TimeSpan NextSpellDelay = TimeSpan.FromSeconds( 0.75 );
-		private static TimeSpan AnimateDelay = TimeSpan.FromSeconds( 1.5 );
+		private static TimeSpan NextSpellDelay = TimeSpan.FromSeconds( 0.6 ); //used to be .75
+		private static TimeSpan AnimateDelay = TimeSpan.FromSeconds( 1.1 ); //used to be 1.5
 
 		public virtual SkillName CastSkill{ get{ return SkillName.Magery; } }
 		public virtual SkillName DamageSkill{ get{ return SkillName.EvalInt; } }
 
 		public virtual bool RevealOnCast{ get{ return true; } }
-		public virtual bool ClearHandsOnCast{ get{ return true; } }
+		public virtual bool ClearHandsOnCast{ get{ return false; } }
 		public virtual bool ShowHandMovement{ get{ return true; } }
 
-		public virtual bool DelayedDamage{ get{ return false; } }
+		public virtual bool DelayedDamage{ get{ return true; } }
 
         public virtual bool DelayedDamageStacking { get { return true; } }
         //In reality, it's ANY delayed Damage spell Post-AoS that can't stack, but, only 
@@ -623,9 +623,9 @@ namespace Server.Spells
 			return TimeSpan.FromSeconds( delay );
 		}
 
-		public virtual int CastRecoveryBase{ get{ return 6; } }
+		public virtual int CastRecoveryBase{ get{ return 1; } } //used to be 6
 		public virtual int CastRecoveryFastScalar{ get{ return 1; } }
-		public virtual int CastRecoveryPerSecond{ get{ return 4; } }
+		public virtual int CastRecoveryPerSecond{ get{ return 3; } }//used to be 4
 		public virtual int CastRecoveryMinimum{ get{ return 0; } }
 
 		public virtual TimeSpan GetCastRecovery()
