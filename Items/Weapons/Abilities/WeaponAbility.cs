@@ -44,10 +44,10 @@ namespace Server.Items
 		{
 			BaseWeapon weapon = from.Weapon as BaseWeapon;
 
-			if ( weapon != null && weapon.PrimaryAbility == this )
-				return 70.0;
-			else if ( weapon != null && weapon.SecondaryAbility == this )
-				return 90.0;
+			//if ( weapon != null && weapon.PrimaryAbility == this )
+			//	return 70.0;
+			//else if ( weapon != null && weapon.SecondaryAbility == this )
+			//	return 90.0;
 
 			return 200.0;
 		}
@@ -305,7 +305,8 @@ namespace Server.Items
 				return null;
 			}
 
-			return a;
+			//return a; **************THIS CHANGE IS TO REMOVE WEAPON ABILITIES
+			return null;
 		}
 
 		public static bool SetCurrentAbility( Mobile m, WeaponAbility a )
