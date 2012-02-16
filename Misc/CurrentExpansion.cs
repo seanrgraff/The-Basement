@@ -11,7 +11,7 @@ namespace Server
 		{
 			Core.Expansion = Expansion;
 
-			bool Enabled = Core.T2A;
+			bool Enabled = Core.AOS;
 
 			Mobile.InsuranceEnabled = Enabled;
 			ObjectPropertyList.Enabled = Enabled;
