@@ -167,11 +167,24 @@ namespace Server.Spells
 
 		public virtual void OnCasterHurt()
 		{
-			// this function is only called on players when they survive the 
-			// first disrupt attempt ( called from playermobile.damage) and the core calls this again.
-
-			//if ( Caster.Player && IsCasting )
-			//	Console.WriteLine( "Caution: OnCasterHurt called on Player with NO damage value sent!!" );
+			//Confirm: Monsters and pets cannot be disturbed.
+			if ( !Caster.Player )
+				return;
+			
+			if ( IsCasting )
+			{
+				object o = ProtectionSpell.Registry[m_Caster];
+				bool disturb = true;
+			
+				if ( o != null && o is double )
+				{
+					if ( ((double)o) > Utility.RandomDouble()*100.0 )
+						disturb = false;
+				}
+			
+				if ( disturb )
+					Disturb( DisturbType.Hurt, false, true );
+			}
 		}
 
 		public virtual void OnCasterHurt( int damage ) //damage was not originally here
@@ -199,7 +212,7 @@ namespace Server.Spells
 
 					double sk = (((double)( circle ) * 100.0 )/7.0) + ((double)(damage) * 8.0) - 20.0;
 					if ( ( ( Caster.Skills[SkillName.Magery].Value - sk ) / 40.0 ) < Utility.RandomDouble() )
-						Disturb( DisturbType.Hurt, true, false );
+						Disturb( DisturbType.Hurt, false, true );
 				}
 			}
 			else if ( IsCasting )
