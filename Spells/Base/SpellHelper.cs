@@ -865,6 +865,9 @@ namespace Server.Spells
 
 				if( reflect )
 				{
+					target.MagicDamageAbsorb = 0;
+					DefensiveSpell.Nullify( target );
+				
 					target.FixedEffect( 0x37B9, 10, 5 );
 
 					Mobile temp = caster;
@@ -877,9 +880,12 @@ namespace Server.Spells
 				bool reflect = false;
 
 				((BaseCreature)target).CheckReflect( caster, ref reflect );
-
+				
 				if( reflect )
 				{
+					target.MagicDamageAbsorb = 0;
+					DefensiveSpell.Nullify( target );
+				
 					target.FixedEffect( 0x37B9, 10, 5 );
 
 					Mobile temp = caster;

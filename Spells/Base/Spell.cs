@@ -167,11 +167,40 @@ namespace Server.Spells
 
 		public virtual void OnCasterHurt()
 		{
+			// this function is only called on players when they survive the 
+			// first disrupt attempt ( called from playermobile.damage) and the core calls this again.
+
+			//if ( Caster.Player && IsCasting )
+			//	Console.WriteLine( "Caution: OnCasterHurt called on Player with NO damage value sent!!" );
+		}
+
+		public virtual void OnCasterHurt( int damage ) //damage was not originally here
+		{
 			//Confirm: Monsters and pets cannot be disturbed.
 			if ( !Caster.Player )
 				return;
 
+			int Spellcircle = (int)(((MagerySpell)this).Circle);
+
 			if ( IsCasting )
+			{
+				// so for 4th circle it'd be around 3*100/7=42 base + damage*2 (for example, 20 dmg) +/- 20
+				// to lightning taking 20 dmg would be a check of 62 to 102
+				int circle = ( this.Scroll != null ? (Spellcircle) - 2 : Spellcircle);
+				
+				if ( this is Fourth.RecallSpell || this is Fourth.GreaterHealSpell || this is First.HealSpell )
+					circle += 2;
+
+				if ( circle < 0 )
+					circle = 0;
+				else if ( circle > 7 )
+					circle = 7;
+
+				double sk = (((double)( circle ) * 100.0 )/7.0) + ((double)(damage) * 8.0) - 20.0;
+				if ( ( ( Caster.Skills[SkillName.Magery].Value - sk ) / 40.0 ) < Utility.RandomDouble() )
+					Disturb( DisturbType.Hurt, true, false );
+			}
+			/*if ( IsCasting )
 			{
 				object o = ProtectionSpell.Registry[m_Caster];
 				bool disturb = true;
@@ -184,7 +213,7 @@ namespace Server.Spells
 
 				if ( disturb )
 					Disturb( DisturbType.Hurt, false, true );
-			}
+			}*/
 		}
 
 		public virtual void OnCasterKilled()
@@ -210,16 +239,16 @@ namespace Server.Spells
 
 		public virtual bool OnCasterEquiping( Item item )
 		{
-			if ( IsCasting )
-				Disturb( DisturbType.EquipRequest );
+			//if ( IsCasting )
+			//	Disturb( DisturbType.EquipRequest );
 
 			return true;
 		}
 
 		public virtual bool OnCasterUsingObject( object o )
 		{
-			if ( m_State == SpellState.Sequencing )
-				Disturb( DisturbType.UseRequest );
+			//if ( m_State == SpellState.Sequencing )
+			//	Disturb( DisturbType.UseRequest );
 
 			return true;
 		}
@@ -285,8 +314,9 @@ namespace Server.Spells
 
 		public virtual double GetDamageScalar( Mobile target )
 		{
-			double scalar = 1.0;
-
+			//double scalar = 1.0;
+			double scalar = ( 0.5 + m_Caster.Skills[CastSkill].Value / 100.0 );
+			
 			if( !Core.AOS )	//EvalInt stuff for AoS is handled elsewhere
 			{
 				double casterEI = m_Caster.Skills[DamageSkill].Value;
@@ -396,8 +426,8 @@ namespace Server.Spells
 
 		public virtual bool CheckDisturb( DisturbType type, bool firstCircle, bool resistable )
 		{
-			if ( resistable && m_Scroll is BaseWand )
-				return false;
+			//if ( resistable && m_Scroll is BaseWand )
+				//return false;
 
 			return true;
 		}
@@ -428,7 +458,7 @@ namespace Server.Spells
 
 				m_Caster.NextSpellTime = DateTime.Now + GetDisturbRecovery();
 			}
-			else if ( m_State == SpellState.Sequencing )
+			/*else if ( m_State == SpellState.Sequencing )
 			{
 				if( !firstCircle && !Core.AOS && this is MagerySpell &&  ((MagerySpell)this).Circle == SpellCircle.First )
 					return;
@@ -442,7 +472,7 @@ namespace Server.Spells
 
 				if ( Core.AOS && m_Caster.Player && type == DisturbType.Hurt )
 					DoHurtFizzle();
-			}
+			}*/
 		}
 
 		public virtual void DoHurtFizzle()
@@ -484,7 +514,15 @@ namespace Server.Spells
 			if ( Core.AOS && m_Caster.Spell is Spell && ((Spell)m_Caster.Spell).State == SpellState.Sequencing )
 				((Spell)m_Caster.Spell).Disturb( DisturbType.NewCast );
 
-			if ( !m_Caster.CheckAlive() )
+			Item oneHanded = m_Caster.FindItemOnLayer( Layer.OneHanded );
+			Item twoHanded = m_Caster.FindItemOnLayer( Layer.TwoHanded );
+
+			if (( oneHanded != null && !oneHanded.AllowEquipedCast( m_Caster )) || (twoHanded != null && !twoHanded.AllowEquipedCast( m_Caster )) )
+			{
+				m_Caster.SendAsciiMessage( "Your hands must be free to cast spells." );
+				return false;
+			}
+			else if ( !m_Caster.CheckAlive() )
 			{
 				return false;
 			}
@@ -573,7 +611,15 @@ namespace Server.Spells
 
 		public virtual void GetCastSkills( out double min, out double max )
 		{
-			min = max = 0;	//Intended but not required for overriding.
+			int circle = (int)(((MagerySpell)this).Circle);
+
+			if ( m_Scroll != null )
+				circle -= 2;
+
+			double avg = 100.0 * circle / 7;
+
+			min = avg - 20;
+			max = avg + 20;
 		}
 
 		public virtual bool CheckFizzle()
@@ -623,9 +669,9 @@ namespace Server.Spells
 			return TimeSpan.FromSeconds( delay );
 		}
 
-		public virtual int CastRecoveryBase{ get{ return 1; } } //used to be 6
+		public virtual int CastRecoveryBase{ get{ return 6; } } //used to be 6
 		public virtual int CastRecoveryFastScalar{ get{ return 1; } }
-		public virtual int CastRecoveryPerSecond{ get{ return 3; } }//used to be 4
+		public virtual int CastRecoveryPerSecond{ get{ return 4; } }//used to be 4
 		public virtual int CastRecoveryMinimum{ get{ return 0; } }
 
 		public virtual TimeSpan GetCastRecovery()
@@ -657,13 +703,19 @@ namespace Server.Spells
 
 		//public virtual int CastDelayBase{ get{ return 3; } }
 		//public virtual int CastDelayFastScalar{ get{ return 1; } }
-		//public virtual int CastDelayPerSecond{ get{ return 4; } }
+		public virtual int CastDelayPerSecond{ get{ return 4; } }
 		//public virtual int CastDelayMinimum{ get{ return 1; } }
 
 		public virtual TimeSpan GetCastDelay()
 		{
 			if ( m_Scroll is BaseWand )
 				return TimeSpan.Zero;
+				
+			int circle = (int)(((MagerySpell)this).Circle);
+			if (CastSkill == SkillName.Magery)
+			{
+				return TimeSpan.FromSeconds( 0.5 + (circle)*0.5 );
+			}
 
 			// Faster casting cap of 2 (if not using the protection spell) 
 			// Faster casting cap of 0 (if using the protection spell) 
@@ -716,7 +768,15 @@ namespace Server.Spells
 		{
 			int mana = ScaleMana( GetMana() );
 
-			if ( m_Caster.Deleted || !m_Caster.Alive || m_Caster.Spell != this || m_State != SpellState.Sequencing )
+			Item oneHanded = m_Caster.FindItemOnLayer( Layer.OneHanded );
+			Item twoHanded = m_Caster.FindItemOnLayer( Layer.TwoHanded );
+
+			if (( oneHanded != null && !oneHanded.AllowEquipedCast( m_Caster )) || (twoHanded != null && !twoHanded.AllowEquipedCast( m_Caster )) )
+			{
+				m_Caster.SendAsciiMessage( "Your hands must be free to cast spells." );
+				return false;
+			}
+			else if ( m_Caster.Deleted || !m_Caster.Alive || m_Caster.Spell != this || m_State != SpellState.Sequencing )
 			{
 				DoFizzle();
 			}
