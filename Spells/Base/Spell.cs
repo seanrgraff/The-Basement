@@ -179,28 +179,30 @@ namespace Server.Spells
 			//Confirm: Monsters and pets cannot be disturbed.
 			if ( !Caster.Player )
 				return;
-
-			int Spellcircle = (int)(((MagerySpell)this).Circle);
-
-			if ( IsCasting )
+			
+			if (CastSkill == SkillName.Magery)
 			{
-				// so for 4th circle it'd be around 3*100/7=42 base + damage*2 (for example, 20 dmg) +/- 20
-				// to lightning taking 20 dmg would be a check of 62 to 102
-				int circle = ( this.Scroll != null ? (Spellcircle) - 2 : Spellcircle);
+				if ( IsCasting )
+				{
+					// so for 4th circle it'd be around 3*100/7=42 base + damage*2 (for example, 20 dmg) +/- 20
+					// to lightning taking 20 dmg would be a check of 62 to 102
+					int Spellcircle = (int)(((MagerySpell)this).Circle);
+					int circle = ( this.Scroll != null ? (Spellcircle) - 2 : Spellcircle);
 				
-				if ( this is Fourth.RecallSpell || this is Fourth.GreaterHealSpell || this is First.HealSpell )
-					circle += 2;
+					if ( this is Fourth.RecallSpell || this is Fourth.GreaterHealSpell || this is First.HealSpell )
+						circle += 2;
 
-				if ( circle < 0 )
-					circle = 0;
-				else if ( circle > 7 )
-					circle = 7;
+					if ( circle < 0 )
+						circle = 0;
+					else if ( circle > 7 )
+						circle = 7;
 
-				double sk = (((double)( circle ) * 100.0 )/7.0) + ((double)(damage) * 8.0) - 20.0;
-				if ( ( ( Caster.Skills[SkillName.Magery].Value - sk ) / 40.0 ) < Utility.RandomDouble() )
-					Disturb( DisturbType.Hurt, true, false );
+					double sk = (((double)( circle ) * 100.0 )/7.0) + ((double)(damage) * 8.0) - 20.0;
+					if ( ( ( Caster.Skills[SkillName.Magery].Value - sk ) / 40.0 ) < Utility.RandomDouble() )
+						Disturb( DisturbType.Hurt, true, false );
+				}
 			}
-			/*if ( IsCasting )
+			else if ( IsCasting )
 			{
 				object o = ProtectionSpell.Registry[m_Caster];
 				bool disturb = true;
@@ -213,7 +215,7 @@ namespace Server.Spells
 
 				if ( disturb )
 					Disturb( DisturbType.Hurt, false, true );
-			}*/
+			}
 		}
 
 		public virtual void OnCasterKilled()
@@ -611,15 +613,22 @@ namespace Server.Spells
 
 		public virtual void GetCastSkills( out double min, out double max )
 		{
-			int circle = (int)(((MagerySpell)this).Circle);
+			if (CastSkill == SkillName.Magery)
+			{
+				int circle = (int)(((MagerySpell)this).Circle);
 
-			if ( m_Scroll != null )
-				circle -= 2;
+				if ( m_Scroll != null )
+					circle -= 2;
 
-			double avg = 100.0 * circle / 7;
+				double avg = 100.0 * circle / 7;
 
-			min = avg - 20;
-			max = avg + 20;
+				min = avg - 20;
+				max = avg + 20;
+			}
+			else
+			{
+				min = max = 0;
+			}
 		}
 
 		public virtual bool CheckFizzle()
@@ -711,9 +720,10 @@ namespace Server.Spells
 			if ( m_Scroll is BaseWand )
 				return TimeSpan.Zero;
 				
-			int circle = (int)(((MagerySpell)this).Circle);
+			
 			if (CastSkill == SkillName.Magery)
 			{
+				int circle = (int)(((MagerySpell)this).Circle);
 				return TimeSpan.FromSeconds( 0.5 + (circle)*0.5 );
 			}
 
