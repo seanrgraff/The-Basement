@@ -212,7 +212,7 @@ namespace Server.Spells
 
 					double sk = (((double)( circle ) * 100.0 )/7.0) + ((double)(damage) * 8.0) - 20.0;
 					if ( ( ( Caster.Skills[SkillName.Magery].Value - sk ) / 40.0 ) < Utility.RandomDouble() )
-						Disturb( DisturbType.Hurt, false, true );
+						Disturb( DisturbType.Hurt, true, false );
 				}
 			}
 			else if ( IsCasting )
@@ -254,16 +254,16 @@ namespace Server.Spells
 
 		public virtual bool OnCasterEquiping( Item item )
 		{
-			//if ( IsCasting )
-			//	Disturb( DisturbType.EquipRequest );
+			if ( IsCasting )
+				Disturb( DisturbType.EquipRequest );
 
 			return true;
 		}
 
 		public virtual bool OnCasterUsingObject( object o )
 		{
-			//if ( m_State == SpellState.Sequencing )
-			//	Disturb( DisturbType.UseRequest );
+			if ( m_State == SpellState.Sequencing )
+				Disturb( DisturbType.UseRequest );
 
 			return true;
 		}
