@@ -44,19 +44,19 @@ namespace Server.Mobiles
 				Add( new GenericBuyInfo( typeof( SpidersSilk ), 3, 20, 0xF8D, 0 ) );
 				Add( new GenericBuyInfo( typeof( SulfurousAsh ), 3, 20, 0xF8C, 0 ) );
 
-				Type[] types = Loot.RegularScrollTypes;
-
-				for ( int i = 0; i < types.Length && i < 8; ++i )
-				{
-					int itemID = 0x1F2E + i;
-
-					if ( i == 6 )
-						itemID = 0x1F2D;
-					else if ( i > 6 )
-						--itemID;
-
-					Add( new GenericBuyInfo( types[i], 12 + ((i / 8) * 10), 20, itemID, 0 ) );
-				}
+				//Type[] types = Loot.RegularScrollTypes;
+				//
+				//for ( int i = 0; i < types.Length && i < 8; ++i )
+				//{
+				//	int itemID = 0x1F2E + i;
+				//
+				//	if ( i == 6 )
+				//		itemID = 0x1F2D;
+				//	else if ( i > 6 )
+				//		--itemID;
+				//
+				//	Add( new GenericBuyInfo( types[i], 12 + ((i / 8) * 10), 20, itemID, 0 ) );
+				//}
 			}
 		}
 

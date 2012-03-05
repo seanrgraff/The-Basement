@@ -60,21 +60,21 @@ namespace Server.Mobiles
 					Add( new GenericBuyInfo( typeof( GraveDust ), 3, 999, 0xF8F, 0 ) );
 				}
 
-				Type[] types = Loot.RegularScrollTypes;
-
-				int circles = 3;
-
-				for ( int i = 0; i < circles*8 && i < types.Length; ++i )
-				{
-					int itemID = 0x1F2E + i;
-
-					if ( i == 6 )
-						itemID = 0x1F2D;
-					else if ( i > 6 )
-						--itemID;
-
-					Add( new GenericBuyInfo( types[i], 12 + ((i / 8) * 10), 20, itemID, 0 ) );
-				}
+				//Type[] types = Loot.RegularScrollTypes;
+				//
+				//int circles = 3;
+				//
+				//for ( int i = 0; i < circles*8 && i < types.Length; ++i )
+				//{
+				//	int itemID = 0x1F2E + i;
+				//
+				//	if ( i == 6 )
+				//		itemID = 0x1F2D;
+				//	else if ( i > 6 )
+				//		--itemID;
+				//
+				//	Add( new GenericBuyInfo( types[i], 12 + ((i / 8) * 10), 20, itemID, 0 ) );
+				//}
 			}
 		}
 

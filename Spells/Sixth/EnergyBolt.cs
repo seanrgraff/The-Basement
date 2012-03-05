@@ -49,11 +49,11 @@ namespace Server.Spells.Sixth
 				}
 				else
 				{
-					damage = Utility.Dice( 6,8,8 );//Utility.Random( 24, 18 );
+					damage = Utility.Random( 24, 18 );
 
 					if ( CheckResisted( m ) )
 					{
-						damage *= 0.5; //0.75;
+						damage *= 0.75;
 
 						m.SendLocalizedMessage( 501783 ); // You feel yourself resisting magical energy.
 					}
