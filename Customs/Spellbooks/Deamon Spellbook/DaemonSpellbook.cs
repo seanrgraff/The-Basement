@@ -174,6 +174,8 @@ namespace Server.Items
 				else if (info.ButtonID == 3)
 				{
 					m_From.SendMessage( "You are casting Unholy Gate!" );
+					
+					//new UnholyGateSpell(m_From);
 				}
 				else if (info.ButtonID == 4) //DEAMON FORM
 				{
@@ -264,6 +266,10 @@ namespace Server.Items
 	}
 	
 	//**********************************
+	//** UNHOLY GATE SPELL *************
+	//**********************************
+	
+	//**********************************
 	//** DEAMON FORM SPELL *************
 	//**********************************
 	public class DaemonFormSpell
@@ -273,7 +279,7 @@ namespace Server.Items
 			//Important aspects of returning to normal.
 			DaemonFormTimer DFT = new DaemonFormTimer( 	m,
 														m.BodyMod,
-														TimeSpan.FromMinutes( 5.0 ));
+														TimeSpan.FromMinutes( 1.0 ));
 														
 			//Set all the aspects of the caster to those of the target
 			m.Criminal = true;
@@ -508,7 +514,7 @@ namespace Server.Items
 																						fromHue,
 																						fromKills,
 																						fromBodyMod,
-																						TimeSpan.FromMinutes( 5.0 ));
+																						TimeSpan.FromMinutes( 1.0 ));
 																	
 							DispellTimer.Start();
 						}
