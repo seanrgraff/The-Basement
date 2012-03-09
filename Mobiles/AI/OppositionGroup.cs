@@ -104,6 +104,7 @@ namespace Server
 					typeof( Architect ),
 					typeof( Armorer ),
 					typeof( Baker ),
+					typeof( BaseHire ),
 					typeof( Bard ),
 					typeof( Barkeeper ),
 					typeof( Beekeeper ),
